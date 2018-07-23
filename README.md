@@ -33,5 +33,5 @@ door, tool, knocking_door, bags, keyboard, background, ring, speech. В тест
 ### Краткий обзор
  
 1. Обработка аудио с помощью librosa, выделение фичей mfccs, chroma, mel, contrast, tonnetz
-2. Сравнение известных алгоритмов классификации (RFC, KNN, LogReg, perceptron)
+2. Сравнение известных алгоритмов классификации (RFC, KNN, LogReg, perceptron, CatBoost)
 3. Запись лучшего результата в файл result.txt
