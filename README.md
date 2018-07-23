@@ -1,6 +1,6 @@
 # STC ML School
 
-Задание выполнено для отборного этапа летней школы <https://mlschool.speechpro.ru>
+Задание выполнено для отборочного этапа летней школы <https://mlschool.speechpro.ru>
 
 #### Мотивация
 
